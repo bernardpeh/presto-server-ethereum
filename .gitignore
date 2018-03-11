@@ -3,4 +3,5 @@
 /data/var/run/*.pid
 /etc/node.properties
 /etc/catalog/ethereum.properties
-
+compile.sh
+plugin/ethereum/*
