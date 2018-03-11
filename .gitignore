@@ -5,3 +5,4 @@
 /etc/catalog/ethereum.properties
 compile.sh
 plugin/ethereum/*
+!plugin/ethereum/.gitkeep
