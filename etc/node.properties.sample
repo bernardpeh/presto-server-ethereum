@@ -1,0 +1,3 @@
+node.environment=production
+node.id=fffff-ffff-ffff-ffff-ffffffffffff
+node.data-dir=/Users/mypath/presto-server-ethereum/data

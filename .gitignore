@@ -1,0 +1,6 @@
+/data/var/log/*.log
+/data/var/log/*.gz
+/data/var/run/*.pid
+/etc/node.properties
+/etc/catalog/ethereum.properties
+
